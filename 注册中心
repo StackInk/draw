@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T10:02:46.513Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="oIrJR-8q3QnfKULUNljO" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T10:03:10.211Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="ysymOjHW0TVKbc82zNcr" version="13.10.4" type="github">
   <diagram id="idQekwB-CQGxN83JbOo2" name="第 1 页">
     <mxGraphModel dx="1755" dy="808" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -194,13 +194,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-52" value="Register" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#FF9999;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="286" y="1771" width="94" height="40" as="geometry" />
+          <mxGeometry x="178" y="1583" width="94" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-55" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="OuRPC2GlH6xbp9SCbOr0-53" target="OuRPC2GlH6xbp9SCbOr0-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-53" value="Provider" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#d0cee2;fontSize=16;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="138" y="1928" width="94" height="40" as="geometry" />
+          <mxGeometry x="30" y="1740" width="94" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-57" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;fontSize=16;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OuRPC2GlH6xbp9SCbOr0-54" target="OuRPC2GlH6xbp9SCbOr0-52">
           <mxGeometry relative="1" as="geometry" />
@@ -214,16 +214,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-54" value="Consumer" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#b1ddf0;fontSize=16;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="443" y="1931" width="94" height="40" as="geometry" />
+          <mxGeometry x="335" y="1743" width="94" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-58" value="&lt;font style=&quot;font-size: 11px&quot;&gt;健康检查&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="453" y="1847" width="86" height="23" as="geometry" />
+          <mxGeometry x="345" y="1659" width="86" height="23" as="geometry" />
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-59" value="&lt;span style=&quot;font-size: 11px&quot;&gt;服务发布&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="352" y="1855" width="86" height="23" as="geometry" />
+          <mxGeometry x="244" y="1667" width="86" height="23" as="geometry" />
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-60" value="&lt;span style=&quot;font-size: 11px&quot;&gt;服务发现&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="178" y="1859" width="86" height="23" as="geometry" />
+          <mxGeometry x="70" y="1671" width="86" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-65" value="三个角色" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="36" y="1557" width="73" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

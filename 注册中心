@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T02:18:38.133Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="BTPMIqaBW5RP1ow6t5DZ" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T02:21:41.129Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="7E-6BmiqLuzr6yU7Vm6c" version="13.10.4" type="github">
   <diagram id="idQekwB-CQGxN83JbOo2" name="第 1 页">
     <mxGraphModel dx="1755" dy="808" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,6 +258,24 @@
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-70" value="&lt;b&gt;异常&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;fillColor=#FF9999;fontSize=13;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="477" y="2111" width="151" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-76" value="&lt;span style=&quot;color: rgb(119 , 119 , 119) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left&quot;&gt;&lt;b&gt;Consistency&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;sketch=1;fillColor=#b1ddf0;fontSize=13;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="900" y="806" width="138" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-77" value="&lt;span style=&quot;color: rgb(119 , 119 , 119) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;Partition tolerance&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;sketch=1;fillColor=#fad7ac;fontSize=13;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="968" y="872" width="138" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-78" value="&lt;span style=&quot;color: rgb(119 , 119 , 119) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left&quot;&gt;&lt;b&gt;&lt;br&gt;Availability&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;sketch=1;fillColor=#fad9d5;fontSize=13;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="851" y="879" width="138" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-79" value="&lt;span style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Basically Available&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;sketch=1;fillColor=#b1ddf0;fontSize=13;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="903" y="1147" width="138" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-80" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Eventually&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Consistent&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;sketch=1;fillColor=#fad7ac;fontSize=13;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="971" y="1213" width="138" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-81" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;Soft-state&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;sketch=1;fillColor=#fad9d5;fontSize=13;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="854" y="1220" width="138" height="138" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T02:21:41.129Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="7E-6BmiqLuzr6yU7Vm6c" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T02:46:24.406Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="b5IPNqsMpBXt6r6OVter" version="13.10.4" type="github">
   <diagram id="idQekwB-CQGxN83JbOo2" name="第 1 页">
     <mxGraphModel dx="1755" dy="808" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-66" value="&lt;b&gt;注册节点&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;fillColor=#FF9999;fontSize=13;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="1960" width="151" height="42" as="geometry" />
+          <mxGeometry x="83" y="2339" width="151" height="42" as="geometry" />
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-72" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;fontSize=13;" edge="1" parent="1" source="OuRPC2GlH6xbp9SCbOr0-68" target="OuRPC2GlH6xbp9SCbOr0-69">
           <mxGeometry relative="1" as="geometry" />
@@ -251,13 +251,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-68" value="&lt;b&gt;注册中心是否存在&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;dashed=1;dashPattern=1 1;sketch=1;fillColor=#FF9999;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="172" y="2099" width="149" height="66" as="geometry" />
+          <mxGeometry x="83" y="2478" width="149" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-69" value="&lt;b&gt;添加节点&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;fillColor=#FF9999;fontSize=13;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="171" y="2280" width="151" height="42" as="geometry" />
+          <mxGeometry x="82" y="2659" width="151" height="42" as="geometry" />
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-70" value="&lt;b&gt;异常&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;fillColor=#FF9999;fontSize=13;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="477" y="2111" width="151" height="42" as="geometry" />
+          <mxGeometry x="388" y="2490" width="151" height="42" as="geometry" />
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-76" value="&lt;span style=&quot;color: rgb(119 , 119 , 119) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left&quot;&gt;&lt;b&gt;Consistency&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;sketch=1;fillColor=#b1ddf0;fontSize=13;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="900" y="806" width="138" height="138" as="geometry" />
@@ -268,14 +268,56 @@
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-78" value="&lt;span style=&quot;color: rgb(119 , 119 , 119) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left&quot;&gt;&lt;b&gt;&lt;br&gt;Availability&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;sketch=1;fillColor=#fad9d5;fontSize=13;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="851" y="879" width="138" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="OuRPC2GlH6xbp9SCbOr0-79" value="&lt;span style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Basically Available&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;sketch=1;fillColor=#b1ddf0;fontSize=13;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-79" value="&lt;span style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Basically Available&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;sketch=1;fillColor=#ffff88;fontSize=13;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="903" y="1147" width="138" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="OuRPC2GlH6xbp9SCbOr0-80" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Eventually&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Consistent&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;sketch=1;fillColor=#fad7ac;fontSize=13;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-80" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Eventually&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Consistent&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;sketch=1;fillColor=#ffcc99;fontSize=13;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="971" y="1213" width="138" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="OuRPC2GlH6xbp9SCbOr0-81" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;Soft-state&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;sketch=1;fillColor=#fad9d5;fontSize=13;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-81" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#777777&quot; face=&quot;open sans, clear sans, helvetica neue, helvetica, arial, sans-serif&quot;&gt;&lt;b&gt;Soft-state&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;sketch=1;fillColor=#cce5ff;fontSize=13;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="854" y="1220" width="138" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-86" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=13;" edge="1" parent="1" source="OuRPC2GlH6xbp9SCbOr0-82" target="OuRPC2GlH6xbp9SCbOr0-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-87" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=13;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OuRPC2GlH6xbp9SCbOr0-82" target="OuRPC2GlH6xbp9SCbOr0-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-82" value="&lt;b&gt;Service&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;dashed=1;dashPattern=1 1;sketch=1;gradientColor=none;fontSize=13;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="772" y="1628" width="98" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-83" value="数据结构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;sketch=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="681" y="1577" width="80" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-92" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=13;" edge="1" parent="1" source="OuRPC2GlH6xbp9SCbOr0-84" target="OuRPC2GlH6xbp9SCbOr0-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-93" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=13;" edge="1" parent="1" source="OuRPC2GlH6xbp9SCbOr0-84" target="OuRPC2GlH6xbp9SCbOr0-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-84" value="&lt;b&gt;Cluster&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;dashed=1;dashPattern=1 1;sketch=1;gradientColor=none;fontSize=13;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="968" y="1712" width="98" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-94" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=13;" edge="1" parent="1" source="OuRPC2GlH6xbp9SCbOr0-85" target="OuRPC2GlH6xbp9SCbOr0-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-95" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=13;" edge="1" parent="1" source="OuRPC2GlH6xbp9SCbOr0-85" target="OuRPC2GlH6xbp9SCbOr0-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-85" value="&lt;b&gt;Cluster&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;dashed=1;dashPattern=1 1;sketch=1;gradientColor=none;fontSize=13;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1799" width="98" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-88" value="&lt;b&gt;Instance&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;sketch=1;fillColor=#ffcccc;fontSize=13;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="675" y="1943" width="103" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-89" value="&lt;b&gt;Instance&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;sketch=1;fillColor=#ffcccc;fontSize=13;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="824" y="1932" width="103" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-90" value="&lt;b&gt;Instance&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;sketch=1;fillColor=#ffcccc;fontSize=13;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1006" y="1892" width="103" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="OuRPC2GlH6xbp9SCbOr0-91" value="&lt;b&gt;Instance&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;sketch=1;fillColor=#ffcccc;fontSize=13;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1127" y="1799" width="103" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

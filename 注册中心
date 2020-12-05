@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T09:52:36.594Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="HuVg4m8xcQ9V5pjaa9Wn" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T09:53:43.598Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="nrudi-Szi5AVflX_9FYv" version="13.10.4" type="github">
   <diagram id="idQekwB-CQGxN83JbOo2" name="第 1 页">
     <mxGraphModel dx="1822" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-5" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="2206" width="231" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-4" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="141" y="2206" width="224" height="358" as="geometry" />
+        </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-1" value="商品系统" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="163" y="173" width="390" height="40" as="geometry" />
         </mxCell>
@@ -290,6 +296,18 @@
         </mxCell>
         <mxCell id="OuRPC2GlH6xbp9SCbOr0-99" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;b&gt;IP&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;b&gt;Port&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;b&gt;Weight&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;b&gt;Health Status&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;b&gt;TTL&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;sketch=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1197" y="1806" width="167" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-1" value="Eureka Server" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="184" y="2335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-2" value="Eureka Server" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="442" y="2335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-3" value="Eureka Server" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="688" y="2335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-6" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="642" y="2204" width="231" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

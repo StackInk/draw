@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T10:01:21.698Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="1pA6fdn7VDPBk9_fh33_" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T10:02:20.289Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="bTdEvIiv9CFXT2Ft_elH" version="13.10.4" type="github">
   <diagram id="idQekwB-CQGxN83JbOo2" name="第 1 页">
     <mxGraphModel dx="1822" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -345,7 +345,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-10" value="Eureka Client" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-10" value="Eureka Client" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="573" y="2608" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkfa5u-8AQv1ZaW5R9Nr-12" target="bkfa5u-8AQv1ZaW5R9Nr-4">
@@ -364,7 +364,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-12" value="Eureka Client" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-12" value="Eureka Client" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="263" y="2602" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-19" value="register" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="bkfa5u-8AQv1ZaW5R9Nr-13" target="bkfa5u-8AQv1ZaW5R9Nr-6">
@@ -395,7 +395,7 @@
             <mxPoint x="-14" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-15" value="Eureka Client" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-15" value="Eureka Client" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="832" y="2577" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-17" value="服务提供者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">

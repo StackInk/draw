@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T11:01:44.380Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="5Wg0HRESFbus3xWMlN7m" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T10:29:00.413Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="x07545Ign4lPPMDzvJ8A" version="13.10.4" type="github">
   <diagram id="idQekwB-CQGxN83JbOo2" name="第 1 页">
     <mxGraphModel dx="2222" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-122" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="4982" width="499" height="345" as="geometry" />
+        </mxCell>
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-129" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=2;fillColor=#C3ABD0;gradientColor=none;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-299" y="5162" width="166" height="126" as="geometry" />
+        </mxCell>
         <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-59" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;dashed=1;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="82" y="2967" width="944" height="362" as="geometry" />
         </mxCell>
@@ -642,6 +648,24 @@
         </mxCell>
         <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-120" value="异常，返回客户端" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeWidth=2;fontSize=16;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="119" y="4714" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-123" value="HTTP服务层" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeWidth=2;fillColor=#C3ABD0;gradientColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-305" y="4993" width="426" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-124" value="Raft" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeWidth=2;fillColor=#C3ABD0;gradientColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-299" y="5083" width="166" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-125" value="Store" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeWidth=2;fillColor=#C3ABD0;gradientColor=none;fontSize=25;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-104" y="5083" width="227" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-127" value="WAL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-289" y="5170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-130" value="Entry" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;fillColor=#ffcccc;fontSize=19;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-271" y="5197" width="123" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="bkfa5u-8AQv1ZaW5R9Nr-131" value="Snapshot" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;fillColor=#ffcc99;fontSize=19;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-269" y="5239" width="124" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
